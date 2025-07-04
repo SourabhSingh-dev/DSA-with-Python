@@ -11,7 +11,7 @@ This repository contains my structured journey of learning **Data Structures and
 - ⏳ Linked Lists
 - ⏳ Stacks & Queues
 - ⏳ Trees & Graphs
-- ⏳ Recursion & Backtracking
+- ✅ Recursion & Backtracking
 - ⏳ Greedy, DP, and more...
 
 ---
