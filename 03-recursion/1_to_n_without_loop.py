@@ -15,10 +15,10 @@ Constraints:
 1 <= n <= 1000
 """
 def printNos(n):
-        if n == 0:
-            return 
-        print(n)
-        printNos(n-1)
+    if n == 0:
+        return
+    printNos(n-1)
+    print(n,end=" ")
 if __name__ == "__main__":
     sample_input = 10
     printNos(sample_input)
